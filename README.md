@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514230/1973/mario_luigi_dance.gif?1643514230" width="30"/> Hey! Nice to meet you.</h1>
 
 
 <p>Welcome to my page! </br> I'm Jean-Francois aka Jeff, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Paris, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/323/323370.png" width="13"/> <b>Tallinn, Estonia</b>. </p>
