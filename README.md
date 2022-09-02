@@ -43,3 +43,4 @@ Here are some ideas to get you started:
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silverdez&show_icons=true&theme=dracula)
+<a href="https://app.daily.dev/Silverdez"><img src="https://api.daily.dev/devcards/9f732c2e7ad2445fadc3307e23df9d38.png?r=gzn" width="400" alt="Jean-François BIERE's Dev Card"/></a>
