@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 <p>Welcome to my page! </br> I'm Jean-Francois aka Jeff, Product Designer & Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Paris, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/323/323370.png" width="13"/> <b>Tallinn, Estonia</b>. </p>
 <h3>Things I code with</h3>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-6fd2cd?style=flat-square&logo=next.js&logoColor=white" />
-  <img alt="VueJs" src="https://img.shields.io/badge/-VueJs-1FC180?style=flat-square&logo=vue.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /><img alt="NextJs" src="https://img.shields.io/badge/-NextJs-6fd2cd?style=flat-square&logo=next.js&logoColor=white" /><img alt="VueJs" src="https://img.shields.io/badge/-VueJs-1FC180?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-F42A1D?style=flat-square&logo=laravel&logoColor=white" />
